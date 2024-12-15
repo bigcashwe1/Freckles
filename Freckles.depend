@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1734251682 source:e:\cpp\freckles\main.cpp
+	<set>
+	<map>
+	<list>
+	<cmath>
+	<ctime>
+	<climits>
+	<queue>
+	<stack>
+	<cctype>
+	<cstdio>
+	<string>
+	<vector>
+	<cassert>
+	<cstdlib>
+	<cstring>
+	<sstream>
+	<iostream>
+	<algorithm>
+
